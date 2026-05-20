@@ -1,5 +1,16 @@
 [
   {
+    "version": "3.10",
+    "date": "14-05-2026",
+    "log": [
+      "Android 16 QPR3 May Update (v3.10)",
+      "Redesign About phone UI",
+      "Implement Per-app GPU Screen Composition",
+      "Improved Lockscreen clock animations",
+      "Under the hood fixes and Optimization"
+    ]
+  },
+  {
     "version": "3.9",
     "date": "10-04-2026",
     "log": [
