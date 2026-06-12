@@ -11,14 +11,14 @@
   "olderBuildsUrl": "https://get.thecloverproject.com/folder/alioth/",
   "builds": [
     {
-      "version": "3.9",
+      "version": "3.11",
       "androidVersion": "16",
       "status": "Stable",
-      "date": "18-04-2026",
-      "securityPatch": "April 2026",
-      "fileSize": "2.34 GB",
-      "md5": "1742b09f387aec2e272fdfca18de58f3",
-      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.9"
+      "date": "12-06-2026",
+      "securityPatch": "June 2026",
+      "fileSize": "2.29 GB",
+      "md5": "53cf132d23bc8b58595b836d3130f511",
+      "downloadUrl": "https://get.thecloverproject.com/folder/alioth/3.x/3.11"
     }
   ],
   "installationGuide": {
@@ -63,6 +63,17 @@
     "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
   },
   "deviceChangelog": [
+    {
+      "version": "3.11",
+      "date": "12-06-2026",
+      "log": [
+        "Added theme support based leica app icon",
+        "Added Bypass charging",
+        "Switch to latest Sony Dolby (credit: @CRUECY )",
+        "Many improvements underhood",
+        "Source Upstreamed"
+      ]
+    },
     {
       "version": "3.9",
       "date": "18-04-2026",
