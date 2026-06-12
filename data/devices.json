@@ -1,87 +1,6 @@
 [
     {
         "id": 1,
-        "name": "Poco F3",
-        "codename": "alioth",
-        "brand": "Poco",
-        "maintainer": "Perses",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/alioth.png"
-    },
-    {
-        "id": 2,
-        "name": "Poco F1",
-        "codename": "beryllium",
-        "brand": "Poco",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/beryllium.png"
-    },
-    {
-        "id": 3,
-        "name": "Redmi 10C",
-        "codename": "fog",
-        "brand": "Redmi",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/fog.png"
-    },
-    {
-        "id": 4,
-        "name": "Poco X6",
-        "codename": "garnet",
-        "brand": "Poco",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/garnet.png"
-    },
-    {
-        "id": 5,
-        "name": "Redmi Note 9 Pro",
-        "codename": "miatoll",
-        "brand": "Redmi",
-        "maintainer": "RiteshSahany",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/miatoll.png"
-    },
-    {
-        "id": 6,
-        "name": "Xiaomi Pad 5",
-        "codename": "nabu",
-        "brand": "Xiaomi",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/nabu.png"
-    },
-    {
-        "id": 7,
-        "name": "Poco F6",
-        "codename": "peridot",
-        "brand": "Poco",
-        "maintainer": "Farrukh",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/peridot.png"
-    },
-    {
-        "id": 8,
-        "name": "Nothing Phone 1",
-        "codename": "spacewar",
-        "brand": "Nothing",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spacewar.png"
-    },
-    {
-        "id": 9,
-        "name": "Nothing Phone 2",
-        "codename": "pong",
-        "brand": "Nothing",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/pong.png"
-    },
-    {
-        "id": 10,
         "name": "Motorola G54/G64",
         "codename": "cancunf",
         "brand": "Motorola",
@@ -90,61 +9,52 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/cancunf.png"
     },
     {
-        "id": 11,
-        "name": "Poco F5",
-        "codename": "marble",
-        "brand": "Poco",
-        "maintainer": "Awaiting",
-        "status": "Discontinued",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/marble.png"
-    },
-    {
-        "id": 12,
-        "name": "Redmi Note 10 Pro",
-        "codename": "sweet",
-        "brand": "Redmi",
-        "maintainer": "Rayyan",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/sweet.png"
-    },
-    {
-        "id": 13,
-        "name": "Redmi Note 7 Pro",
-        "codename": "violet",
-        "brand": "Redmi",
-        "maintainer": "RainZ",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/violet.png"
-    },
-    {
-        "id": 14,
-        "name": "Realme GT NEO 3T",
-        "codename": "spartan",
-        "brand": "Realme",
-        "maintainer": "Provasish",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spartan.png"
-    },
-    {
-        "id": 15,
+        "id": 2,
         "name": "Motorola G82 5G",
         "codename": "rhodep",
         "brand": "Motorola",
-        "maintainer": "Akky",
-        "status": "Stable",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/rhodep.png"
     },
     {
-        "id": 16,
-        "name": "Poco X3 Pro",
-        "codename": "vayu",
-        "brand": "Poco",
-        "maintainer": "sloppe",
-        "status": "Stable",
-        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/vayu.png"
+        "id": 3,
+        "name": "Nothing Phone 1",
+        "codename": "spacewar",
+        "brand": "Nothing",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spacewar.png"
     },
     {
-        "id": 17,
+        "id": 4,
+        "name": "Nothing Phone 2",
+        "codename": "pong",
+        "brand": "Nothing",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/pong.png"
+    },
+    {
+        "id": 5,
+        "name": "Poco F1",
+        "codename": "beryllium",
+        "brand": "Poco",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/beryllium.png"
+    },
+    {
+        "id": 6,
+        "name": "Poco F3",
+        "codename": "alioth",
+        "brand": "Poco",
+        "maintainer": "Perses",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/alioth.png"
+    },
+    {
+        "id": 7,
         "name": "Poco F4",
         "codename": "munch",
         "brand": "Poco",
@@ -153,12 +63,102 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/munch.png"
     },
     {
-        "id": 18,
+        "id": 8,
+        "name": "Poco F5",
+        "codename": "marble",
+        "brand": "Poco",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/marble.png"
+    },
+    {
+        "id": 9,
+        "name": "Poco F6",
+        "codename": "peridot",
+        "brand": "Poco",
+        "maintainer": "Farrukh",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/peridot.png"
+    },
+    {
+        "id": 10,
         "name": "Poco F7",
         "codename": "onyx",
         "brand": "Poco",
         "maintainer": "Kaveer",
         "status": "Stable",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/onyx.png"
+    },
+    {
+        "id": 11,
+        "name": "Poco X3 Pro",
+        "codename": "vayu",
+        "brand": "Poco",
+        "maintainer": "sloppe",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/vayu.png"
+    },
+    {
+        "id": 12,
+        "name": "Poco X6",
+        "codename": "garnet",
+        "brand": "Poco",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/garnet.png"
+    },
+    {
+        "id": 13,
+        "name": "Realme GT NEO 3T",
+        "codename": "spartan",
+        "brand": "Realme",
+        "maintainer": "Provasish",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spartan.png"
+    },
+    {
+        "id": 14,
+        "name": "Redmi 10C",
+        "codename": "fog",
+        "brand": "Redmi",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/fog.png"
+    },
+    {
+        "id": 15,
+        "name": "Redmi Note 10 Pro",
+        "codename": "sweet",
+        "brand": "Redmi",
+        "maintainer": "Rayyan",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/sweet.png"
+    },
+    {
+        "id": 16,
+        "name": "Redmi Note 7 Pro",
+        "codename": "violet",
+        "brand": "Redmi",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/violet.png"
+    },
+    {
+        "id": 17,
+        "name": "Redmi Note 9 Pro",
+        "codename": "miatoll",
+        "brand": "Redmi",
+        "maintainer": "RiteshSahany",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/miatoll.png"
+    },
+    {
+        "id": 18,
+        "name": "Xiaomi Pad 5",
+        "codename": "nabu",
+        "brand": "Xiaomi",
+        "maintainer": "Awaiting",
+        "status": "Discontinued",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/nabu.png"
     }
 ]
