@@ -151,5 +151,14 @@
         "maintainer": "Olzhas0986",
         "status": "Stable",
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/munch.png"
+    },
+    {
+        "id": 18,
+        "name": "Poco F7",
+        "codename": "onyx",
+        "brand": "Poco",
+        "maintainer": "Kaveer",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/onyx.png"
     }
 ]
