@@ -1,0 +1,85 @@
+{
+  "name": "Nothing Phone 3a/Pro",
+  "codename": "Asteroids",
+  "brand": "Nothing",
+  "tagline": "Experience the perfect blend of performance and customization with our Pixel-inspired custom ROM for your device.",
+  "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/download/Asteroids.png",
+  "maintainer": {
+    "name": "NayanYC",
+    "githubUrl": "https://github.com/NayanChavare"
+  },
+  "olderBuildsUrl": "https://get.thecloverproject.com/folder/asteroids/",
+  "builds": [
+    {
+      "version": "3.11",
+      "androidVersion": "16",
+      "status": "Stable",
+      "date": "20-06-2026",
+      "securityPatch": "June 2026",
+      "fileSize": "2.44 GB",
+      "md5": "80431c894c36b060632e45493291660e",
+      "downloadUrl": "https://get.thecloverproject.com/folder/asteroids/3.x/3.11"
+    }
+  ],
+  "installationGuide": {
+    "steps": [
+      {
+        "title": "Unlock Bootloader",
+        "description": "Ensure your device's bootloader is unlocked before proceeding."
+      },
+      {
+        "title": "Reboot To Fastboot",
+        "description": "Reboot to Fastboot by pressing Vol Down + Power Button."
+      },
+      {
+        "title": "Connection",
+        "description": "Open CMD or Terminal on your PC and connect your phone via USB."
+      },
+      {
+        "title": "Flash Recovery",
+        "description": "Flash recovery (Use 6.1 recovery by @Superuser1958 if coming from stock) by typing:<pre><code>fastboot flash recovery recovery*.img</code></pre>"
+      },
+      {
+        "title": "Reboot To Bootloader",
+        "description": "Reboot into Bootloader by typing:<pre><code>fastboot reboot bootloader</code></pre>"
+      },
+      {
+        "title": "Wipe Super",
+        "description": "Wipe Super by typing:<pre><code>fastboot wipe-super super_empty.img</code></pre>"        
+      },
+      {
+        "title": "Reboot To Bootloader",
+        "description": "Reboot into Bootloader (again) by typing:<pre><code>fastboot reboot bootloader</code></pre>"        
+      },
+      {
+        "title": "Reboot To Recovery",
+        "description": "Reboot into Recovery by typing:<pre><code>fastboot reboot recovery</code></pre>"        
+      },
+      {
+        "title": "Wipe Data",
+        "description": "In recovery, click on factory reset and then do format data."
+      },
+      {
+        "title": "Flash Clover ROM",
+        "description": "Select apply update using sideload & install the ROM by typing:<pre><code>adb sideload CloverProject*.zip</code></pre>"
+      },
+      {
+        "title": "Reboot",
+        "description": "The first boot may take a few minutes. Enjoy Clover!"
+      }
+    ],
+    "warning": "Incorrect installation may brick your device. We are not responsible for any damage to your device. Proceed at your own risk."
+  },
+  "deviceChangelog": [
+    {
+      "version": "3.11",
+      "date": "20-06-2026",
+      "log": [
+        "Initial official Build",
+        "Optimize and improved battery and camera performance",
+        "Display: Fixed HBM",
+        "Added haptics in text insertion/selection handle when moved"
+      ]
+    }
+  ]
+}

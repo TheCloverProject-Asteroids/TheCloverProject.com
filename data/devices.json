@@ -37,6 +37,15 @@
     },
     {
         "id": 5,
+        "name": "Nothing Phone 3a/Pro",
+        "codename": "Asteroids",
+        "brand": "Nothing",
+        "maintainer": "NayanYC",
+        "status": "Stable",
+        "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/Asteroids.png"
+    },
+    {
+        "id": 6,
         "name": "Poco F1",
         "codename": "beryllium",
         "brand": "Poco",
@@ -45,7 +54,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/beryllium.png"
     },
     {
-        "id": 6,
+        "id": 7,
         "name": "Poco F3",
         "codename": "alioth",
         "brand": "Poco",
@@ -54,7 +63,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/alioth.png"
     },
     {
-        "id": 7,
+        "id": 8,
         "name": "Poco F4",
         "codename": "munch",
         "brand": "Poco",
@@ -63,7 +72,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/munch.png"
     },
     {
-        "id": 8,
+        "id": 9,
         "name": "Poco F5",
         "codename": "marble",
         "brand": "Poco",
@@ -72,7 +81,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/marble.png"
     },
     {
-        "id": 9,
+        "id": 10,
         "name": "Poco F6",
         "codename": "peridot",
         "brand": "Poco",
@@ -81,7 +90,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/peridot.png"
     },
     {
-        "id": 10,
+        "id": 11,
         "name": "Poco F7",
         "codename": "onyx",
         "brand": "Poco",
@@ -90,7 +99,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/onyx.png"
     },
     {
-        "id": 11,
+        "id": 12,
         "name": "Poco X3 Pro",
         "codename": "vayu",
         "brand": "Poco",
@@ -99,7 +108,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/vayu.png"
     },
     {
-        "id": 12,
+        "id": 13,
         "name": "Poco X6",
         "codename": "garnet",
         "brand": "Poco",
@@ -108,7 +117,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/garnet.png"
     },
     {
-        "id": 13,
+        "id": 14,
         "name": "Realme GT NEO 3T",
         "codename": "spartan",
         "brand": "Realme",
@@ -117,7 +126,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/spartan.png"
     },
     {
-        "id": 14,
+        "id": 15,
         "name": "Redmi 10C",
         "codename": "fog",
         "brand": "Redmi",
@@ -126,7 +135,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/fog.png"
     },
     {
-        "id": 15,
+        "id": 16,
         "name": "Redmi Note 10 Pro",
         "codename": "sweet",
         "brand": "Redmi",
@@ -135,7 +144,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/sweet.png"
     },
     {
-        "id": 16,
+        "id": 17,
         "name": "Redmi Note 7 Pro",
         "codename": "violet",
         "brand": "Redmi",
@@ -144,7 +153,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/violet.png"
     },
     {
-        "id": 17,
+        "id": 18,
         "name": "Redmi Note 9 Pro",
         "codename": "miatoll",
         "brand": "Redmi",
@@ -153,7 +162,7 @@
         "image": "https://raw.githubusercontent.com/The-Clover-Project/TheCloverProject.com/main/public/devices/miatoll.png"
     },
     {
-        "id": 18,
+        "id": 19,
         "name": "Xiaomi Pad 5",
         "codename": "nabu",
         "brand": "Xiaomi",
